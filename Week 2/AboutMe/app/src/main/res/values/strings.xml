@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ayush Bherwani</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Sunflowers make up the genus Helianthus. In Greek, helios means sun and anthos means flower, thus
+        Sunflower. The genus, which contains about 67 species, is thought to be native to the Americas (North, South)
+        originally, and were domesticated around 1000 B.C. Although, Sunflowers are now distributed almost worldwide.
+        The large, solitary Sunflower blossom, sometimes as large as a meter in diameter, is composed of yellow ray flowers and a central disk.n The Central disk is composed of either yellow, brown, or purple flowers, depending on the species. The flower is actually a head (formerly composite flower) of numerous flowers crowded together. The outer flowers on the Sunflower are the ray florets and can be yellow, maroon, orange, or other colors. These flowers are sterile. The flowers that fill the circular head inside the ray flowers are called disc florets.
+        \nSunflower plants are cultivated in Sunflower farms for their seeds. Refined Sunflower-seed oil is edible, sunflowers have 39 to 49% oil in the seed. Sunflower seed accounts for about 14% of the world production of seed oils (6.9 million metric tons in 1985-86) and about 7% of the oilcake and meal produced from oilseeds. Sunflower oil is generally considered a premium oil because of its light color, high level of unsaturated fatty acids and lack of linolenic acid, bland flavor and high smoke points. Sunflower is the preferred and the most commonly used oil.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
